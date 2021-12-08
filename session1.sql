@@ -21,7 +21,7 @@
 	SELECT DISTINCT Composer FROM tracks;
 	
 	/*tracks tablosundaki AlbumId ve MediaTypeId bigilerini TEKRARSIZ olarak 
-	sorgulayınız */
+	sorgulayınız... */
 	SELECT DISTINCT AlbumId, MediaTypeId FROM tracks;
 		
 /*===================================================
